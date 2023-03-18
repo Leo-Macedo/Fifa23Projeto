@@ -7,17 +7,26 @@ body{
 }
 #titulo{
 	text-align: center;
-	font-family: arial;
+	font-family: aBernard MT Condensed;
     color: #2403fc;
 
 }
 #img{
 	width:400px;
 	height:200px;
-	padding-left:465px;
+	margin-left:465px;
+	border-style: dotted;
 }
 #descriçao{
-	font-family: arial;
+	font-family: Bernard MT Condensed;
 	text-align: center;
+	margin-top: 10px;
 	font-size: 25px;
+	
+}
+#desc{
+    border-style: dashed;
+	width: 800px;
+	height: 75px;
+	margin-left: 250px;
 }
