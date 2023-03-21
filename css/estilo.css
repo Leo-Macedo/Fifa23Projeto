@@ -3,7 +3,11 @@
 	padding:0;
 }
 body{
+<<<<<<< HEAD
+	background-color: #5fc0ec;
+=======
 	background-color: #4400ff;
+>>>>>>> bbf10bc4b6636fa9d50e6bf439546fd0523bdac1
 }
 #titulo{
 	text-align: center;
