@@ -12,7 +12,7 @@ body{
 	padding-top: 20px;
 
 }
-#tit{
+#divtitulo{
 	width: 100%;
 	height: 100px;
 	background-color: #8dc7ee;
@@ -34,7 +34,7 @@ body{
 	color: white;
 	
 }
-#desc{
+#divdescricao{
     border-style: dashed;
 	width: 800px;
 	height: 75px;
