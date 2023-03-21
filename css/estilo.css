@@ -10,12 +10,26 @@ body{
 	text-align: center;
 	font-family: aBernard MT Condensed;
     color: #ffffff;
-	padding-top: 20px;
+	padding-top: 45px;
+
+}
+#bola1{
+	width: 100px;
+	height: 100px;
+	margin-left: 50px;
+	margin-top: -60px;
+}
+#controle{
+	width: 100px;
+	height: 100px;
+	margin-left:1120px;
+	margin-top: -400px;
+	margin-bottom: 70px;
 
 }
 #divtitulo{
 	width: 100%;
-	height: 100px;
+	height: 150px;
 	background-color: #8dc7ee;
 	border-bottom: 3px solid black;
 	
