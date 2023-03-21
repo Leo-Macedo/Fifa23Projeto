@@ -8,8 +8,8 @@
 <p> Primeiro eu zerei o margin e o padding da página. Mudei a cor de fundo do meu site. Dentro das div´s eu centralizei, mudei a cor e a fonte do título e descrição, na descrição coloquei uma sombra. Nas div´s eu mudei as bordas, a cor e o tamanho, na div da descrição eu arrendondei as pontas, e mudei a posição dela. A imagem eu coloquei o tamanho dela, uma borda preta e mudei a posição para o centro.
 
 # JavaScript
-<p> Linha 1: Abri a function onclick e puxei do HTML com o nome substituir.
-Linha 2: Coloquei uma variável e puxei o elemento imagem pelo id 'img'.
-Linha 3: Coloquei uma variável para o número aleatório com os comandos 'Math.Trunc' para arredondar para inteiro, e o 'Math.random * 10' para gerar um número aleatório entre 0 e 9.
-Linha 4: Mudei o src da imagem com img.src e deixei mudar somente a varíavel aleatoria com o nome das imagens: 0.jpg, 1.jpg... até 9.
+<p> Linha 1: Abri a function onclick e puxei do HTML com o nome substituir.<br>
+Linha 2: Coloquei uma variável e puxei o elemento imagem pelo id 'img'.<br>
+Linha 3: Coloquei uma variável para o número aleatório com os comandos 'Math.Trunc' para arredondar para inteiro, e o 'Math.random * 10' para gerar um número aleatório entre 0 e 9.<br>
+Linha 4: Mudei o src da imagem com img.src e deixei mudar somente a varíavel aleatoria com o nome das imagens: 0.jpg, 1.jpg... até 9.<br>
 Assim irá mudar a imagem a cada 'click'.
