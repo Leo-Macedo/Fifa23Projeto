@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # Descrição do projeto.
 <p>Leonardo Macêdo Aurieni</p>
 
@@ -16,4 +13,3 @@ Linha 2: Coloquei uma variável e puxei o elemento imagem pelo id 'img'.<br>
 Linha 3: Coloquei uma variável para o número aleatório com os comandos 'Math.Trunc' para arredondar para inteiro, e o 'Math.random * 10' para gerar um número aleatório entre 0 e 9.<br>
 Linha 4: Mudei o src da imagem com img.src e deixei mudar somente a varíavel aleatoria com o nome das imagens: 0.jpg, 1.jpg... até 9.<br>
 Assim irá mudar a imagem a cada 'click'.</p>
->>>>>>> 05dfce9baec59a117fc639ebe5ea1dbb5bf254ee
