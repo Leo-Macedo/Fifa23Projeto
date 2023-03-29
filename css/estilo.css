@@ -41,14 +41,13 @@ body{
 #img{
 	width:400px;
 	height:200px;
-	display:block;
 	margin-left: 470px;
 	border: 3px solid black;
 }
 #descriçao{
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	text-align: center;
-	margin-top: 20px;
+	margin-top: 24px;
 	font-size: 25px;
 	text-shadow: 3px 5px 2px black;
 	color: white;
@@ -58,7 +57,7 @@ body{
     border-style: dashed;
 	width: 800px;
 	height: 150px;
-	margin-left: 250px;
+	margin-left: 275px;
 	border-radius: 10px;
 	align-items: center;
 }
